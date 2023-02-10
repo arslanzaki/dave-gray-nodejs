@@ -1,0 +1,11 @@
+20230210	10:02:20	db97d4d1-d721-4549-9510-b66a84d1924e	GET	 undefined	 /
+20230210	10:02:20	a0ffc632-97bc-4504-a3d0-c89a7733a454	GET	 undefined	 /css/style.css
+20230210	10:04:57	185f336e-0d13-44c8-b3fe-b547e1551519	GET	 undefined	 /hello
+20230210	15:45:27	986506fa-e5bf-429c-855a-b6311aed8604	OPTIONS	 https://www.google.com	 /
+20230210	15:45:27	12c0a45e-e973-41f7-a8e8-fdaeaecac0b0	GET	 https://www.google.com	 /
+20230210	15:47:42	047325e5-f65c-4231-b9d7-74e8ea144afe	OPTIONS	 https://www.google.com	 /
+20230210	15:47:42	dfded616-1252-4a67-9d88-46d73cb33ec7	GET	 https://www.google.com	 /
+20230210	16:01:15	2165cd20-006d-4f16-88a0-a649180a162a	OPTIONS	 https://www.google.com	 /
+20230210	16:01:15	af5c80b5-3457-48ce-9a29-a2cbf98e0892	GET	 https://www.google.com	 /
+20230210	16:02:48	b8f7c7f3-e300-47f0-8c45-9cc77bc4d83e	OPTIONS	 https://www.google.com	 /
+20230210	16:02:48	4e1e0ab8-0749-4732-a4e8-97ec2c5982b9	GET	 https://www.google.com	 /
