@@ -17,3 +17,5 @@
 20230217	12:30:42	dead721c-c326-4cc7-8bc2-d1fb1bf0c54f	POST	undefined	/register
 20230217	12:31:18	f274b46e-afb1-4913-a49c-7319d1f8762b	POST	undefined	/register
 20230217	12:31:29	e70e223c-6789-4fba-b83e-80659e60208d	POST	undefined	/register
+20230217	22:52:29	777b21b8-defc-49f2-98ea-20efde991587	POST	undefined	/auth
+20230217	22:52:36	6235c2c1-996d-4f77-b7d3-a50ad7415f6c	POST	undefined	/auth
